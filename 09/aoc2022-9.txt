@@ -1,0 +1,7 @@
+U4 (4) nudo:4 pos:{'H': [3, 2], 'T': [1, 3]}
+  pos:[2, 2]
+
+U4 (4) nudo:5 pos:{'H': [2, 2], 'T': [0, 4]}
+Posición no soportada: {'H': [2, 2], 'T': [0, 4]}
+  pos:[0, 4]
+
